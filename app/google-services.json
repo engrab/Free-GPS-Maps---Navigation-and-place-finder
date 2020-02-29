@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1058434765300",
+    "firebase_url": "https://free-gps-maps-08-10-18.firebaseio.com",
+    "project_id": "free-gps-maps-08-10-18",
+    "storage_bucket": "free-gps-maps-08-10-18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058434765300:android:a0ef99dc7d19efc8",
+        "android_client_info": {
+          "package_name": "com.megafreeapps.free.gps.navigation.speedometer.compass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058434765300-55hf109d57oklgl3poct7phcsjucghdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBed0asXGzrpOfqxiiRB5i9uzHPoF7m3kE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

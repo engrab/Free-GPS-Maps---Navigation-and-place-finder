@@ -1,0 +1,260 @@
+<resources>
+
+    <string name="pdialog_title">Permission Denied</string>
+        
+    <string name="pdialog_text">Attualmente vi sò negati permessi à l\'accessu à a posizione di u mobile, per piacè abiliteghite a permessa da l\'impostazione per proseguire l\'applicazione</string>
+        
+    <string name="pdialog_setting_btn">Impostazione</string>
+        
+    <string name="do_you_want_to_exit">Vulete Esci?</string>
+        
+    <string name="yes">Iè</string>
+        
+    <string name="no">INNÒ</string>
+        
+    <string name="clear_all">Sguardo Tutta</string>
+        
+    <string name="txt_accounting">Contabilità</string>
+        
+    <string name="txt_airport">Aeroporto</string>
+        
+    <string name="txt_amusement_park">Parco di divertimenti</string>
+        
+    <string name="txt_aquarium">Aquarium</string>
+        
+    <string name="txt_art_gallery">Art Gallery</string>
+        
+    <string name="txt_atm">Atm</string>
+        
+    <string name="txt_bakery">Panetteria</string>
+        
+    <string name="txt_bank">Bank</string>
+        
+    <string name="txt_bar">Bar</string>
+        
+    <string name="txt_beauty_salon">Salon di bellezza</string>
+        
+    <string name="txt_bicycle_store">Store in bicicletta</string>
+        
+    <string name="txt_book_store">Libreria di libri</string>
+        
+    <string name="txt_bowling_alley">Bowling Alley</string>
+        
+    <string name="txt_bus_stop">Fermata bus</string>
+        
+    <string name="txt_cafe">Caffè</string>
+        
+    <string name="txt_car_dealer">Venditore automobile</string>
+        
+    <string name="txt_car_rental">Autonoleggio</string>
+        
+    <string name="txt_car_repair">Riparazione auto</string>
+        
+    <string name="txt_car_wash">Car Wash</string>
+        
+    <string name="txt_casino">Casinò</string>
+        
+    <string name="txt_cemetery">Cimiteru</string>
+        
+    <string name="txt_church">Chiesa</string>
+        
+    <string name="txt_city_hall">Municipiu</string>
+        
+    <string name="txt_clothing_store">Abbigliamento</string>
+        
+    <string name="txt_convenience_store">Store di convenienza</string>
+        
+    <string name="txt_court">Tribunale</string>
+        
+    <string name="txt_dentist">Dentista</string>
+        
+    <string name="txt_department_store">Centru cummerciale</string>
+        
+    <string name="txt_doctor">Dottore</string>
+        
+    <string name="txt_electrician">Electrician</string>
+        
+    <string name="txt_electronics_store">Negozio di Elettronica</string>
+        
+    <string name="txt_embassy">Ambasciata</string>
+        
+    <string name="txt_establishment">Stabilimentu</string>
+        
+    <string name="txt_finance">Finanza</string>
+        
+    <string name="txt_fire_station">Stazione di fuoco</string>
+        
+    <string name="txt_florist">Fiorista</string>
+        
+    <string name="txt_food">Cibo</string>
+        
+    <string name="txt_funeral_home">Funeral Home</string>
+        
+    <string name="txt_furniture_store">Negozio di mobili</string>
+        
+    <string name="txt_gas_station">Stazione di gasò</string>
+        
+    <string name="txt_general_contractor">Appaltatore Generale</string>
+        
+    <string name="txt_gym">Palestra</string>
+        
+    <string name="txt_hair_care">Cura di i capelli</string>
+        
+    <string name="txt_hardware_store">Ferraghju</string>
+        
+    <string name="txt_health">Salute</string>
+        
+    <string name="txt_temple">Tempiu</string>
+        
+    <string name="txt_home_goods_store">Negozio di articoli per la casa</string>
+        
+    <string name="txt_hospital">Hospital</string>
+        
+    <string name="txt_insurance_agency">Agenzia d\'Assicuranza</string>
+        
+    <string name="txt_jewelry_store">Gioielleria</string>
+        
+    <string name="txt_laundry">Lavanderia</string>
+        
+    <string name="txt_lawyer">Avvocatu</string>
+        
+    <string name="txt_library">Biblioteca</string>
+        
+    <string name="txt_liquor_store">Liquor Store</string>
+        
+    <string name="txt_local_government_office">Ufficiale di u guvernu locale</string>
+        
+    <string name="txt_locksmith">Fabbro</string>
+        
+    <string name="txt_lodging">Sistemazione</string>
+        
+    <string name="txt_meal_delivery">Cunsultazione di pasce</string>
+        
+    <string name="txt_meal_takeaway">Piattuli Puddu</string>
+        
+    <string name="txt_mosque">Moschea</string>
+        
+    <string name="txt_movie_rental">Affitto di film</string>
+        
+    <string name="txt_movie_theater">Cinema</string>
+        
+    <string name="txt_moving_company">A Cumpagnia Moving</string>
+        
+    <string name="txt_museum">Museo</string>
+        
+    <string name="txt_night_club">Night Club</string>
+        
+    <string name="txt_painter">Pittore</string>
+        
+    <string name="txt_park">Park</string>
+        
+    <string name="txt_parking">U Parking</string>
+        
+    <string name="txt_pet_store">Pet Store</string>
+        
+    <string name="txt_pharmacy">Farmacia</string>
+        
+    <string name="txt_physiotherapist">Fisioterapista</string>
+        
+    <string name="txt_place_worship">Place of Worship</string>
+        
+    <string name="txt_plumber">Idraulice</string>
+        
+    <string name="txt_police">Polizia</string>
+        
+    <string name="txt_post_office">Posta</string>
+        
+    <string name="txt_real_estate_agency">Agenzia immobiliare</string>
+        
+    <string name="txt_restaurant">Restaurant</string>
+        
+    <string name="txt_roofing_contractor">Costruttori di tetti</string>
+        
+    <string name="txt_rv_park">RV Park</string>
+        
+    <string name="txt_school">Scuola</string>
+        
+    <string name="txt_shoe_store">Negozio di scarpe</string>
+        
+    <string name="txt_shopping_mall">Centro Commerciale</string>
+        
+    <string name="txt_spa">Spa</string>
+        
+    <string name="txt_stadium">Stadium</string>
+        
+    <string name="txt_storage">Conservazione</string>
+        
+    <string name="txt_store">Store</string>
+        
+    <string name="txt_subway_station">Stazione di Metro</string>
+        
+    <string name="txt_super_market">Super Market</string>
+        
+    <string name="txt_synagogue">Sinagoga</string>
+        
+    <string name="txt_taxi_stand">Taxi Stand</string>
+        
+    <string name="txt_train_station">Stazione di u trenu</string>
+        
+    <string name="txt_transit_station">Stazione di transitu</string>
+        
+    <string name="txt_travel_agency">Agenzia di viaghju</string>
+        
+    <string name="txt_university">Università</string>
+        
+    <string name="txt_veterinary_care">Cura Veterinaria</string>
+        
+    <string name="txt_zoo">Zoo</string>
+        
+    <string name="share_it">Share</string>
+        
+    <string name="txt_select_language">Sceglite Lingua</string>
+        
+    <string name="txt_language">Lingua</string>
+        
+    <string name="share_app">Share App</string>
+        
+    <string name="rate_us">Rate Us</string>
+        
+    <string name="navigation">Navigazione</string>
+        
+    <string name="nearby_places">Near By Places</string>
+        
+    <string name="voice_navigation">Navigazione vocale</string>
+        
+    <string name="speedometer">Speedometer</string>
+        
+    <string name="compass">Bussula</string>
+        
+    <string name="route_finder">Route Finder</string>
+        
+    <string name="source_location">SOURCE LOCATION</string>
+        
+    <string name="no_source_location_selected">Nisunu Locu di a Sorgente Selezionatu</string>
+        
+    <string name="destination_location">POSIZIONE DI DESTINAZIONE</string>
+        
+    <string name="no_destination_location_selected">Nisunu Locu Destinazione selezionatu</string>
+        
+    <string name="find_route">TENCI ROUTE</string>
+        
+    <string name="location_saved_on">Locazione Salvata</string>
+        
+    <string name="driving_route">Strada di guida</string>
+        
+    <string name="current_location">Posizione attuale</string>
+        
+    <string name="favourite_places">Posti Preferiti</string>
+        
+    <string name="share_location">Share Location</string>
+        
+    <string name="start">Cumprà</string>
+        
+    <string name="distance">DISTANCE</string>
+        
+    <string name="where_to">Dove</string>
+        
+    <string name="hospital">Hospital</string>
+        
+    <string name="favourite_place">Posti Preferiti</string>
+</resources>
